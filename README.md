@@ -14,3 +14,6 @@ I will keep each one of us informed on the inferences I would draw from this dat
 Please take a moment and help in this initiative. 
 These inference would be available on Tableau Public repository.
 I will share the Tableau Dashboard URL and CSV Data will everyone taking part in it.
+
+Tableau Public URL: 
+https://public.tableau.com/profile/keshav1480#!/
